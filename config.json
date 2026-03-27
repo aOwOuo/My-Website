@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "aOwOu",
+		"description": "Author:aOwOu,Category:Personal Blog",
+		"favicon": "assets/favicon.ico?v=20260303-1"
+	},
+	"intro": {
+		"title": "aOwOu",
+		"subtitle": "A Non~~stop Blabbermouth Fish",
+		"enter": "PRESS START",
+		"supportAuthor": false,
+		"background": true
+	},
+	"main": {
+		"name": "aOwOu",
+		"signature": "Welcome to MY Universe～(∠・ω< )⌒★",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "blog/index.html",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "about/index.html",
+				"icon": "xiaolian",
+				"text": "About"
+			},
+			"third": {
+				"href": "projects/index.html",
+				"icon": "qita",
+				"text": "Projects"
+			},
+			"fourth": {
+				"href": "https://github.com/aOwOuo",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
